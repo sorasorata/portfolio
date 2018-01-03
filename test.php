@@ -1,4 +1,10 @@
+<!DOCTYPE html>
 <html>
-  <head></head>
-  <body>dapat x wei</body>
+<body>
+
+<?php
+echo "Oh my first PHP script!";
+?>
+
+</body>
 </html>
