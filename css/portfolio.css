@@ -1,0 +1,44 @@
+img {
+  margin: 20px 0px;
+}
+
+.ppp {
+  padding: 30px 0px;
+  font-size: 18px;
+  text-align: justify;
+}
+
+.fa {
+  padding: 25px;
+  font-size: 30px;
+  width: 10px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+  background: white;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: ;
+  color: #3B5998;
+}
+
+.fa-twitter {
+  background: ;
+  color: #55ACEE;
+}
+
+.fa-linkedin {
+  background: ;
+  color: #007bb5;
+}
+
+.fa-instagram {
+  background: ;
+  color: #125688;
+}
